@@ -1,0 +1,2 @@
+model_checkpoint_path: "remaining_time_ckpt"
+all_model_checkpoint_paths: "remaining_time_ckpt"
