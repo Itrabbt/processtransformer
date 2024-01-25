@@ -4,17 +4,27 @@ from tensorflow.keras import layers
 
 class TransformerBlock(layers.Layer):
     def __init__(self, embed_dim, num_heads, ff_dim, rate=0.1):
+        # 定义了transformer模型中的几个层和操作。
+        # embed_dim：Transformer 模型中嵌入维度的大小。
+        # num_heads：多头自注意力机制中注意力头的数量。
+        # ff_dim：前馈神经网络（Feed-Forward Network）中隐藏层的维度。
+        # rate：Dropout 层的丢弃率，默认值为 0.1。
         super(TransformerBlock, self).__init__()
+        # 多头注意力
         self.att = layers.MultiHeadAttention(num_heads=num_heads, key_dim=embed_dim)
+        # Feed forward层
         self.ffn = tf.keras.Sequential(
             [layers.Dense(ff_dim, activation="relu"), layers.Dense(embed_dim),]
         )
+        # 两个 Layer Normalization 层
         self.layernorm_a = layers.LayerNormalization(epsilon=1e-6)
         self.layernorm_b = layers.LayerNormalization(epsilon=1e-6)
+        # 两个 Dropout 层
         self.dropout_a = layers.Dropout(rate)
         self.dropout_b = layers.Dropout(rate)
 
     def call(self, inputs, training):
+        # call 方法是 TensorFlow 中定义层的前向传播逻辑的方法，inputs：输入张量，表示传递给 Transformer 模块的数据。training：一个布尔值，指示当前是否处于训练模式。
         attn_output = self.att(inputs, inputs)
         attn_output = self.dropout_a(attn_output, training=training)
         out_a = self.layernorm_a(inputs + attn_output)
@@ -23,6 +33,7 @@ class TransformerBlock(layers.Layer):
         return self.layernorm_b(out_a + ffn_output)
 
 class TokenAndPositionEmbedding(layers.Layer):
+    # 用于处理输入数据并生成嵌入表示。
     def __init__(self, maxlen, vocab_size, embed_dim):
         super(TokenAndPositionEmbedding, self).__init__()
         self.token_emb = layers.Embedding(input_dim=vocab_size, output_dim=embed_dim)
