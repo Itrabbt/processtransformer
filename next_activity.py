@@ -16,7 +16,11 @@ from processtransformer.models import transformer
 
 parser = argparse.ArgumentParser(description="Process Transformer - Next Activity Prediction.")
 
-parser.add_argument("--dataset", default="helpdesk", type=str, help="dataset name")
+parser.add_argument("--dataset", 
+                    # default="helpdesk", 
+                    # default="production", 
+                    default="traffic_fines", 
+                    type=str, help="dataset name")
 
 parser.add_argument("--model_dir", default="./models", type=str, help="model directory")
 
@@ -25,7 +29,7 @@ parser.add_argument("--result_dir", default="./results", type=str, help="results
 parser.add_argument("--task", type=constants.Task, 
     default=constants.Task.NEXT_ACTIVITY,  help="task name")
 
-parser.add_argument("--epochs", default=10, type=int, help="number of total epochs")
+parser.add_argument("--epochs", default=30, type=int, help="number of total epochs")
 
 parser.add_argument("--batch_size", default=12, type=int, help="batch size")
 

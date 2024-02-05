@@ -1,0 +1,287 @@
+case_id,prefix,k,time_passed,recent_time,latest_time,next_time
+Case111,other,0,0,0,0,0
+Case111,other other,1,0,0,0,0
+Case111,other other other,2,0,0,0,0
+Case111,other other other other,3,0,0,0,0
+Case111,other other other other other,4,0,0,0,0
+Case111,other other other other other other,5,0,0,0,0
+Case111,other other other other other other turning-q.c.,6,0,0,0,8
+Case111,other other other other other other turning-q.c. turning-&-milling---machine-4,7,8,8,8,0
+Case111,other other other other other other turning-q.c. turning-&-milling---machine-4 turning-&-milling---machine-4,8,8,8,0,0
+Case111,other other other other other other turning-q.c. turning-&-milling---machine-4 turning-&-milling---machine-4 turning-&-milling---machine-4,9,8,0,0,0
+Case111,other other other other other other turning-q.c. turning-&-milling---machine-4 turning-&-milling---machine-4 turning-&-milling---machine-4 other,10,8,0,0,1
+Case111,other other other other other other turning-q.c. turning-&-milling---machine-4 turning-&-milling---machine-4 turning-&-milling---machine-4 other turning-&-milling---machine-4,11,9,1,1,0
+Case111,other other other other other other turning-q.c. turning-&-milling---machine-4 turning-&-milling---machine-4 turning-&-milling---machine-4 other turning-&-milling---machine-4 other,12,9,1,0,0
+Case111,other other other other other other turning-q.c. turning-&-milling---machine-4 turning-&-milling---machine-4 turning-&-milling---machine-4 other turning-&-milling---machine-4 other turning-&-milling---machine-4,13,9,0,0,0
+Case111,other other other other other other turning-q.c. turning-&-milling---machine-4 turning-&-milling---machine-4 turning-&-milling---machine-4 other turning-&-milling---machine-4 other turning-&-milling---machine-4 turning-&-milling---machine-4,14,9,0,0,0
+Case111,other other other other other other turning-q.c. turning-&-milling---machine-4 turning-&-milling---machine-4 turning-&-milling---machine-4 other turning-&-milling---machine-4 other turning-&-milling---machine-4 turning-&-milling---machine-4 turning-&-milling---machine-4,15,9,0,0,1
+Case83,turning-&-milling---machine-5,0,0,0,0,7
+Case83,turning-&-milling---machine-5 turning-&-milling---machine-5,1,7,0,7,0
+Case83,turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling---machine-5,2,7,7,0,0
+Case83,turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling---machine-5,3,7,0,0,0
+Case83,turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling-q.c.,4,7,0,0,0
+Case83,turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling-q.c. turning-&-milling---machine-5,5,7,0,0,0
+Case83,turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling-q.c. turning-&-milling---machine-5 turning-&-milling---machine-5,6,7,0,0,0
+Case83,turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling-q.c. turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling---machine-5,7,7,0,0,0
+Case83,turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling-q.c. turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling-q.c.,8,7,1,0,2
+Case83,turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling-q.c. turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling-q.c. lapping---machine-1,9,9,3,2,0
+Case83,turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling-q.c. turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling-q.c. lapping---machine-1 laser-marking---machine-7,10,9,2,0,0
+Case83,turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling-q.c. turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling-q.c. lapping---machine-1 laser-marking---machine-7 flat-grinding---machine-11,11,9,0,0,0
+Case83,turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling-q.c. turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling-q.c. lapping---machine-1 laser-marking---machine-7 flat-grinding---machine-11 lapping---machine-1,12,9,0,0,0
+Case83,turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling-q.c. turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling-q.c. lapping---machine-1 laser-marking---machine-7 flat-grinding---machine-11 lapping---machine-1 flat-grinding---machine-11,13,9,0,0,0
+Case83,turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling-q.c. turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling-q.c. lapping---machine-1 laser-marking---machine-7 flat-grinding---machine-11 lapping---machine-1 flat-grinding---machine-11 lapping---machine-1,14,9,0,0,1
+Case69,other,0,0,0,0,6
+Case69,other packing,1,6,0,6,0
+Case69,other packing final-inspection-q.c.,2,6,6,0,1
+Case101,other,0,0,0,0,0
+Case101,other turning-&-milling---machine-8,1,0,0,0,0
+Case101,other turning-&-milling---machine-8 turning-&-milling---machine-8,2,0,0,0,0
+Case101,other turning-&-milling---machine-8 turning-&-milling---machine-8 turning-&-milling---machine-8,3,0,0,0,0
+Case101,other turning-&-milling---machine-8 turning-&-milling---machine-8 turning-&-milling---machine-8 turning-&-milling---machine-8,4,0,0,0,0
+Case101,other turning-&-milling---machine-8 turning-&-milling---machine-8 turning-&-milling---machine-8 turning-&-milling---machine-8 turning-&-milling---machine-8,5,0,0,0,0
+Case101,other turning-&-milling---machine-8 turning-&-milling---machine-8 turning-&-milling---machine-8 turning-&-milling---machine-8 turning-&-milling---machine-8 turning-&-milling---machine-8,6,0,0,0,0
+Case101,other turning-&-milling---machine-8 turning-&-milling---machine-8 turning-&-milling---machine-8 turning-&-milling---machine-8 turning-&-milling---machine-8 turning-&-milling---machine-8 turning-&-milling---machine-8,7,0,0,0,0
+Case101,other turning-&-milling---machine-8 turning-&-milling---machine-8 turning-&-milling---machine-8 turning-&-milling---machine-8 turning-&-milling---machine-8 turning-&-milling---machine-8 turning-&-milling---machine-8 turning-&-milling-q.c.,8,0,0,0,0
+Case101,other turning-&-milling---machine-8 turning-&-milling---machine-8 turning-&-milling---machine-8 turning-&-milling---machine-8 turning-&-milling---machine-8 turning-&-milling---machine-8 turning-&-milling---machine-8 turning-&-milling-q.c. flat-grinding---machine-11,9,0,0,0,8
+Case101,other turning-&-milling---machine-8 turning-&-milling---machine-8 turning-&-milling---machine-8 turning-&-milling---machine-8 turning-&-milling---machine-8 turning-&-milling---machine-8 turning-&-milling---machine-8 turning-&-milling-q.c. flat-grinding---machine-11 lapping---machine-1,10,8,8,8,1
+Case101,other turning-&-milling---machine-8 turning-&-milling---machine-8 turning-&-milling---machine-8 turning-&-milling---machine-8 turning-&-milling---machine-8 turning-&-milling---machine-8 turning-&-milling---machine-8 turning-&-milling-q.c. flat-grinding---machine-11 lapping---machine-1 round-grinding---machine-12,11,9,9,1,0
+Case101,other turning-&-milling---machine-8 turning-&-milling---machine-8 turning-&-milling---machine-8 turning-&-milling---machine-8 turning-&-milling---machine-8 turning-&-milling---machine-8 turning-&-milling---machine-8 turning-&-milling-q.c. flat-grinding---machine-11 lapping---machine-1 round-grinding---machine-12 round-grinding---machine-12,12,9,1,0,0
+Case101,other turning-&-milling---machine-8 turning-&-milling---machine-8 turning-&-milling---machine-8 turning-&-milling---machine-8 turning-&-milling---machine-8 turning-&-milling---machine-8 turning-&-milling---machine-8 turning-&-milling-q.c. flat-grinding---machine-11 lapping---machine-1 round-grinding---machine-12 round-grinding---machine-12 lapping---machine-1,13,9,0,0,0
+Case101,other turning-&-milling---machine-8 turning-&-milling---machine-8 turning-&-milling---machine-8 turning-&-milling---machine-8 turning-&-milling---machine-8 turning-&-milling---machine-8 turning-&-milling---machine-8 turning-&-milling-q.c. flat-grinding---machine-11 lapping---machine-1 round-grinding---machine-12 round-grinding---machine-12 lapping---machine-1 laser-marking---machine-7,14,9,0,0,0
+Case101,other turning-&-milling---machine-8 turning-&-milling---machine-8 turning-&-milling---machine-8 turning-&-milling---machine-8 turning-&-milling---machine-8 turning-&-milling---machine-8 turning-&-milling---machine-8 turning-&-milling-q.c. flat-grinding---machine-11 lapping---machine-1 round-grinding---machine-12 round-grinding---machine-12 lapping---machine-1 laser-marking---machine-7 final-inspection-q.c.,15,9,0,0,0
+Case101,other turning-&-milling---machine-8 turning-&-milling---machine-8 turning-&-milling---machine-8 turning-&-milling---machine-8 turning-&-milling---machine-8 turning-&-milling---machine-8 turning-&-milling---machine-8 turning-&-milling-q.c. flat-grinding---machine-11 lapping---machine-1 round-grinding---machine-12 round-grinding---machine-12 lapping---machine-1 laser-marking---machine-7 final-inspection-q.c. packing,16,9,0,0,1
+Case123,turning-&-milling---machine-4,0,0,0,0,1
+Case123,turning-&-milling---machine-4 turning-&-milling---machine-4,1,1,0,1,0
+Case123,turning-&-milling---machine-4 turning-&-milling---machine-4 turning-&-milling---machine-4,2,1,1,0,0
+Case123,turning-&-milling---machine-4 turning-&-milling---machine-4 turning-&-milling---machine-4 turning-&-milling---machine-4,3,1,0,0,0
+Case123,turning-&-milling---machine-4 turning-&-milling---machine-4 turning-&-milling---machine-4 turning-&-milling---machine-4 turning-&-milling---machine-4,4,1,0,0,0
+Case123,turning-&-milling---machine-4 turning-&-milling---machine-4 turning-&-milling---machine-4 turning-&-milling---machine-4 turning-&-milling---machine-4 turning-&-milling---machine-4,5,1,0,0,0
+Case123,turning-&-milling---machine-4 turning-&-milling---machine-4 turning-&-milling---machine-4 turning-&-milling---machine-4 turning-&-milling---machine-4 turning-&-milling---machine-4 turning-&-milling---machine-4,6,1,0,0,0
+Case123,turning-&-milling---machine-4 turning-&-milling---machine-4 turning-&-milling---machine-4 turning-&-milling---machine-4 turning-&-milling---machine-4 turning-&-milling---machine-4 turning-&-milling---machine-4 turning-&-milling---machine-4,7,1,0,0,0
+Case123,turning-&-milling---machine-4 turning-&-milling---machine-4 turning-&-milling---machine-4 turning-&-milling---machine-4 turning-&-milling---machine-4 turning-&-milling---machine-4 turning-&-milling---machine-4 turning-&-milling---machine-4 turning-&-milling---machine-4,8,1,0,0,1
+Case4,other,0,0,0,0,0
+Case4,other turning-&-milling---machine-5,1,0,0,0,0
+Case4,other turning-&-milling---machine-5 turning-&-milling-q.c.,2,0,0,0,0
+Case4,other turning-&-milling---machine-5 turning-&-milling-q.c. turning-&-milling---machine-5,3,0,0,0,0
+Case4,other turning-&-milling---machine-5 turning-&-milling-q.c. turning-&-milling---machine-5 turning-&-milling---machine-5,4,0,0,0,0
+Case4,other turning-&-milling---machine-5 turning-&-milling-q.c. turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling---machine-5,5,0,0,0,0
+Case4,other turning-&-milling---machine-5 turning-&-milling-q.c. turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling-q.c.,6,0,0,0,0
+Case4,other turning-&-milling---machine-5 turning-&-milling-q.c. turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling-q.c. laser-marking---machine-7,7,0,0,0,0
+Case4,other turning-&-milling---machine-5 turning-&-milling-q.c. turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling-q.c. laser-marking---machine-7 turning-&-milling-q.c.,8,0,0,0,0
+Case4,other turning-&-milling---machine-5 turning-&-milling-q.c. turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling-q.c. laser-marking---machine-7 turning-&-milling-q.c. laser-marking---machine-7,9,0,0,0,1
+Case53,turning-&-milling---machine-8,0,0,0,0,0
+Case53,turning-&-milling---machine-8 turning-&-milling---machine-8,1,0,0,0,0
+Case53,turning-&-milling---machine-8 turning-&-milling---machine-8 turning-&-milling---machine-8,2,0,0,0,0
+Case53,turning-&-milling---machine-8 turning-&-milling---machine-8 turning-&-milling---machine-8 turning-&-milling---machine-8,3,0,0,0,0
+Case53,turning-&-milling---machine-8 turning-&-milling---machine-8 turning-&-milling---machine-8 turning-&-milling---machine-8 turning-&-milling---machine-8,4,0,0,0,0
+Case53,turning-&-milling---machine-8 turning-&-milling---machine-8 turning-&-milling---machine-8 turning-&-milling---machine-8 turning-&-milling---machine-8 turning-&-milling---machine-8,5,0,0,0,0
+Case53,turning-&-milling---machine-8 turning-&-milling---machine-8 turning-&-milling---machine-8 turning-&-milling---machine-8 turning-&-milling---machine-8 turning-&-milling---machine-8 turning-&-milling---machine-8,6,0,0,0,0
+Case53,turning-&-milling---machine-8 turning-&-milling---machine-8 turning-&-milling---machine-8 turning-&-milling---machine-8 turning-&-milling---machine-8 turning-&-milling---machine-8 turning-&-milling---machine-8 turning-&-milling-q.c.,7,0,0,0,0
+Case53,turning-&-milling---machine-8 turning-&-milling---machine-8 turning-&-milling---machine-8 turning-&-milling---machine-8 turning-&-milling---machine-8 turning-&-milling---machine-8 turning-&-milling---machine-8 turning-&-milling-q.c. turning-&-milling---machine-8,8,0,0,0,1
+Case113,other,0,0,0,0,0
+Case113,other turning-&-milling---machine-5,1,0,0,0,0
+Case113,other turning-&-milling---machine-5 turning-&-milling-q.c.,2,0,1,0,0
+Case113,other turning-&-milling---machine-5 turning-&-milling-q.c. laser-marking---machine-7,3,0,0,0,1
+Case139,round-grinding---q.c.,0,0,0,0,1
+Case71,turning-&-milling---machine-10,0,0,0,0,0
+Case71,turning-&-milling---machine-10 turning-&-milling---machine-10,1,0,0,0,6
+Case71,turning-&-milling---machine-10 turning-&-milling---machine-10 packing,2,6,6,6,0
+Case71,turning-&-milling---machine-10 turning-&-milling---machine-10 packing turning-q.c.,3,6,6,0,0
+Case71,turning-&-milling---machine-10 turning-&-milling---machine-10 packing turning-q.c. laser-marking---machine-7,4,6,0,0,0
+Case71,turning-&-milling---machine-10 turning-&-milling---machine-10 packing turning-q.c. laser-marking---machine-7 flat-grinding---machine-11,5,6,0,0,0
+Case71,turning-&-milling---machine-10 turning-&-milling---machine-10 packing turning-q.c. laser-marking---machine-7 flat-grinding---machine-11 final-inspection-q.c.,6,6,0,0,1
+Case106,turning-&-milling---machine-8,0,0,0,0,0
+Case106,turning-&-milling---machine-8 turning-&-milling---machine-8,1,0,0,0,3
+Case106,turning-&-milling---machine-8 turning-&-milling---machine-8 turning-&-milling-q.c.,2,3,3,3,0
+Case106,turning-&-milling---machine-8 turning-&-milling---machine-8 turning-&-milling-q.c. laser-marking---machine-7,3,3,3,0,0
+Case106,turning-&-milling---machine-8 turning-&-milling---machine-8 turning-&-milling-q.c. laser-marking---machine-7 flat-grinding---machine-11,4,3,0,0,2
+Case106,turning-&-milling---machine-8 turning-&-milling---machine-8 turning-&-milling-q.c. laser-marking---machine-7 flat-grinding---machine-11 final-inspection-q.c.,5,5,2,2,0
+Case106,turning-&-milling---machine-8 turning-&-milling---machine-8 turning-&-milling-q.c. laser-marking---machine-7 flat-grinding---machine-11 final-inspection-q.c. packing,6,5,2,0,0
+Case106,turning-&-milling---machine-8 turning-&-milling---machine-8 turning-&-milling-q.c. laser-marking---machine-7 flat-grinding---machine-11 final-inspection-q.c. packing final-inspection-q.c.,7,5,0,0,1
+Case64,turning-&-milling---machine-5,0,0,0,0,0
+Case64,turning-&-milling---machine-5 turning-&-milling---machine-5,1,0,0,0,0
+Case64,turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling---machine-5,2,0,0,0,1
+Case64,turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling---machine-5,3,1,1,1,1
+Case64,turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling---machine-5,4,2,2,1,0
+Case64,turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling---machine-5,5,2,1,0,0
+Case64,turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling---machine-5,6,2,0,0,0
+Case64,turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling---machine-5,7,2,0,0,1
+Case60,turning---machine-8,0,0,0,0,0
+Case60,turning---machine-8 lapping---machine-1,1,0,0,0,0
+Case60,turning---machine-8 lapping---machine-1 turning---machine-8,2,0,0,0,1
+Case60,turning---machine-8 lapping---machine-1 turning---machine-8 turning-q.c.,3,1,2,1,0
+Case60,turning---machine-8 lapping---machine-1 turning---machine-8 turning-q.c. turning---machine-8,4,1,1,0,0
+Case60,turning---machine-8 lapping---machine-1 turning---machine-8 turning-q.c. turning---machine-8 turning---machine-8,5,1,0,0,0
+Case60,turning---machine-8 lapping---machine-1 turning---machine-8 turning-q.c. turning---machine-8 turning---machine-8 turning-q.c.,6,1,1,0,0
+Case60,turning---machine-8 lapping---machine-1 turning---machine-8 turning-q.c. turning---machine-8 turning---machine-8 turning-q.c. turning-q.c.,7,1,1,0,0
+Case60,turning---machine-8 lapping---machine-1 turning---machine-8 turning-q.c. turning---machine-8 turning---machine-8 turning-q.c. turning-q.c. lapping---machine-1,8,1,0,0,0
+Case60,turning---machine-8 lapping---machine-1 turning---machine-8 turning-q.c. turning---machine-8 turning---machine-8 turning-q.c. turning-q.c. lapping---machine-1 laser-marking---machine-7,9,1,0,0,0
+Case60,turning---machine-8 lapping---machine-1 turning---machine-8 turning-q.c. turning---machine-8 turning---machine-8 turning-q.c. turning-q.c. lapping---machine-1 laser-marking---machine-7 final-inspection-q.c.,10,1,0,0,0
+Case60,turning---machine-8 lapping---machine-1 turning---machine-8 turning-q.c. turning---machine-8 turning---machine-8 turning-q.c. turning-q.c. lapping---machine-1 laser-marking---machine-7 final-inspection-q.c. final-inspection-q.c.,11,1,0,0,0
+Case60,turning---machine-8 lapping---machine-1 turning---machine-8 turning-q.c. turning---machine-8 turning---machine-8 turning-q.c. turning-q.c. lapping---machine-1 laser-marking---machine-7 final-inspection-q.c. final-inspection-q.c. packing,12,1,0,0,1
+Case96,turning-&-milling-q.c.,0,0,0,0,9
+Case96,turning-&-milling-q.c. turning-&-milling-q.c.,1,9,0,9,0
+Case96,turning-&-milling-q.c. turning-&-milling-q.c. lapping---machine-1,2,9,9,0,0
+Case96,turning-&-milling-q.c. turning-&-milling-q.c. lapping---machine-1 lapping---machine-1,3,9,0,0,0
+Case96,turning-&-milling-q.c. turning-&-milling-q.c. lapping---machine-1 lapping---machine-1 laser-marking---machine-7,4,9,0,0,0
+Case96,turning-&-milling-q.c. turning-&-milling-q.c. lapping---machine-1 lapping---machine-1 laser-marking---machine-7 lapping---machine-1,5,9,0,0,0
+Case96,turning-&-milling-q.c. turning-&-milling-q.c. lapping---machine-1 lapping---machine-1 laser-marking---machine-7 lapping---machine-1 packing,6,9,0,0,0
+Case96,turning-&-milling-q.c. turning-&-milling-q.c. lapping---machine-1 lapping---machine-1 laser-marking---machine-7 lapping---machine-1 packing packing,7,9,0,0,0
+Case96,turning-&-milling-q.c. turning-&-milling-q.c. lapping---machine-1 lapping---machine-1 laser-marking---machine-7 lapping---machine-1 packing packing final-inspection-q.c.,8,9,0,0,1
+Case59,turning-&-milling---machine-6,0,0,0,0,0
+Case59,turning-&-milling---machine-6 turning-&-milling---machine-6,1,0,0,0,0
+Case59,turning-&-milling---machine-6 turning-&-milling---machine-6 turning-&-milling---machine-6,2,0,0,0,2
+Case59,turning-&-milling---machine-6 turning-&-milling---machine-6 turning-&-milling---machine-6 turning-&-milling-q.c.,3,2,2,2,0
+Case59,turning-&-milling---machine-6 turning-&-milling---machine-6 turning-&-milling---machine-6 turning-&-milling-q.c. laser-marking---machine-7,4,2,2,0,0
+Case59,turning-&-milling---machine-6 turning-&-milling---machine-6 turning-&-milling---machine-6 turning-&-milling-q.c. laser-marking---machine-7 lapping---machine-1,5,2,0,0,0
+Case59,turning-&-milling---machine-6 turning-&-milling---machine-6 turning-&-milling---machine-6 turning-&-milling-q.c. laser-marking---machine-7 lapping---machine-1 packing,6,2,0,0,0
+Case59,turning-&-milling---machine-6 turning-&-milling---machine-6 turning-&-milling---machine-6 turning-&-milling-q.c. laser-marking---machine-7 lapping---machine-1 packing final-inspection-q.c.,7,2,0,0,1
+Case54,turning-&-milling---machine-4,0,0,0,0,0
+Case54,turning-&-milling---machine-4 turning-&-milling---machine-4,1,0,0,0,0
+Case54,turning-&-milling---machine-4 turning-&-milling---machine-4 turning-&-milling---machine-4,2,0,0,0,0
+Case54,turning-&-milling---machine-4 turning-&-milling---machine-4 turning-&-milling---machine-4 turning-&-milling-q.c.,3,0,0,0,0
+Case54,turning-&-milling---machine-4 turning-&-milling---machine-4 turning-&-milling---machine-4 turning-&-milling-q.c. turning-&-milling---machine-4,4,0,0,0,0
+Case54,turning-&-milling---machine-4 turning-&-milling---machine-4 turning-&-milling---machine-4 turning-&-milling-q.c. turning-&-milling---machine-4 turning-&-milling---machine-4,5,0,0,0,1
+Case174,turning-&-milling---machine-6,0,0,0,0,0
+Case174,turning-&-milling---machine-6 turning-&-milling---machine-6,1,0,0,0,0
+Case174,turning-&-milling---machine-6 turning-&-milling---machine-6 turning-&-milling-q.c.,2,0,0,0,0
+Case174,turning-&-milling---machine-6 turning-&-milling---machine-6 turning-&-milling-q.c. turning-&-milling---machine-6,3,0,0,0,0
+Case174,turning-&-milling---machine-6 turning-&-milling---machine-6 turning-&-milling-q.c. turning-&-milling---machine-6 turning-&-milling---machine-6,4,0,0,0,0
+Case174,turning-&-milling---machine-6 turning-&-milling---machine-6 turning-&-milling-q.c. turning-&-milling---machine-6 turning-&-milling---machine-6 turning-&-milling---machine-6,5,0,0,0,0
+Case174,turning-&-milling---machine-6 turning-&-milling---machine-6 turning-&-milling-q.c. turning-&-milling---machine-6 turning-&-milling---machine-6 turning-&-milling---machine-6 turning-&-milling---machine-6,6,0,0,0,0
+Case174,turning-&-milling---machine-6 turning-&-milling---machine-6 turning-&-milling-q.c. turning-&-milling---machine-6 turning-&-milling---machine-6 turning-&-milling---machine-6 turning-&-milling---machine-6 turning-&-milling---machine-6,7,0,0,0,1
+Case140,turning-&-milling---machine-5,0,0,0,0,0
+Case140,turning-&-milling---machine-5 turning-&-milling---machine-5,1,0,0,0,1
+Case104,turning-&-milling---machine-5,0,0,0,0,0
+Case104,turning-&-milling---machine-5 turning-&-milling---machine-5,1,0,0,0,0
+Case104,turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling---machine-5,2,0,0,0,0
+Case104,turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling-q.c.,3,0,0,0,0
+Case104,turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling-q.c. turning-&-milling-q.c.,4,0,0,0,0
+Case104,turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling-q.c. turning-&-milling-q.c. laser-marking---machine-7,5,0,0,0,1
+Case124,turning-&-milling---machine-4,0,0,0,0,0
+Case124,turning-&-milling---machine-4 turning-&-milling---machine-4,1,0,0,0,0
+Case124,turning-&-milling---machine-4 turning-&-milling---machine-4 turning-&-milling---machine-4,2,0,0,0,0
+Case124,turning-&-milling---machine-4 turning-&-milling---machine-4 turning-&-milling---machine-4 turning-&-milling---machine-4,3,0,0,0,0
+Case124,turning-&-milling---machine-4 turning-&-milling---machine-4 turning-&-milling---machine-4 turning-&-milling---machine-4 turning-&-milling-q.c.,4,0,0,0,0
+Case124,turning-&-milling---machine-4 turning-&-milling---machine-4 turning-&-milling---machine-4 turning-&-milling---machine-4 turning-&-milling-q.c. laser-marking---machine-7,5,0,0,0,0
+Case124,turning-&-milling---machine-4 turning-&-milling---machine-4 turning-&-milling---machine-4 turning-&-milling---machine-4 turning-&-milling-q.c. laser-marking---machine-7 lapping---machine-1,6,0,0,0,1
+Case124,turning-&-milling---machine-4 turning-&-milling---machine-4 turning-&-milling---machine-4 turning-&-milling---machine-4 turning-&-milling-q.c. laser-marking---machine-7 lapping---machine-1 final-inspection-q.c.,7,1,1,1,1
+Case124,turning-&-milling---machine-4 turning-&-milling---machine-4 turning-&-milling---machine-4 turning-&-milling---machine-4 turning-&-milling-q.c. laser-marking---machine-7 lapping---machine-1 final-inspection-q.c. final-inspection-q.c.,8,2,3,1,0
+Case124,turning-&-milling---machine-4 turning-&-milling---machine-4 turning-&-milling---machine-4 turning-&-milling---machine-4 turning-&-milling-q.c. laser-marking---machine-7 lapping---machine-1 final-inspection-q.c. final-inspection-q.c. packing,9,2,2,0,1
+Case119,turning-&-milling---machine-10,0,0,0,0,0
+Case119,turning-&-milling---machine-10 turning-&-milling---machine-10,1,0,0,0,1
+Case119,turning-&-milling---machine-10 turning-&-milling---machine-10 turning-&-milling---machine-10,2,1,2,1,0
+Case119,turning-&-milling---machine-10 turning-&-milling---machine-10 turning-&-milling---machine-10 turning-&-milling---machine-10,3,1,1,0,2
+Case119,turning-&-milling---machine-10 turning-&-milling---machine-10 turning-&-milling---machine-10 turning-&-milling---machine-10 turning-&-milling---machine-10,4,3,2,2,1
+Case119,turning-&-milling---machine-10 turning-&-milling---machine-10 turning-&-milling---machine-10 turning-&-milling---machine-10 turning-&-milling---machine-10 turning-&-milling---machine-10,5,4,3,1,0
+Case119,turning-&-milling---machine-10 turning-&-milling---machine-10 turning-&-milling---machine-10 turning-&-milling---machine-10 turning-&-milling---machine-10 turning-&-milling---machine-10 turning-&-milling---machine-10,6,4,2,0,0
+Case119,turning-&-milling---machine-10 turning-&-milling---machine-10 turning-&-milling---machine-10 turning-&-milling---machine-10 turning-&-milling---machine-10 turning-&-milling---machine-10 turning-&-milling---machine-10 turning-&-milling---machine-10,7,4,1,0,0
+Case119,turning-&-milling---machine-10 turning-&-milling---machine-10 turning-&-milling---machine-10 turning-&-milling---machine-10 turning-&-milling---machine-10 turning-&-milling---machine-10 turning-&-milling---machine-10 turning-&-milling---machine-10 turning-&-milling---machine-10,8,4,0,0,0
+Case119,turning-&-milling---machine-10 turning-&-milling---machine-10 turning-&-milling---machine-10 turning-&-milling---machine-10 turning-&-milling---machine-10 turning-&-milling---machine-10 turning-&-milling---machine-10 turning-&-milling---machine-10 turning-&-milling---machine-10 turning-&-milling---machine-10,9,4,1,0,0
+Case119,turning-&-milling---machine-10 turning-&-milling---machine-10 turning-&-milling---machine-10 turning-&-milling---machine-10 turning-&-milling---machine-10 turning-&-milling---machine-10 turning-&-milling---machine-10 turning-&-milling---machine-10 turning-&-milling---machine-10 turning-&-milling---machine-10 turning-&-milling---machine-10,10,4,0,0,1
+Case45,turning-&-milling---machine-6,0,0,0,0,0
+Case45,turning-&-milling---machine-6 turning-&-milling---machine-6,1,0,0,0,0
+Case45,turning-&-milling---machine-6 turning-&-milling---machine-6 turning-&-milling---machine-6,2,0,0,0,0
+Case45,turning-&-milling---machine-6 turning-&-milling---machine-6 turning-&-milling---machine-6 turning-&-milling-q.c.,3,0,0,0,5
+Case45,turning-&-milling---machine-6 turning-&-milling---machine-6 turning-&-milling---machine-6 turning-&-milling-q.c. other,4,5,5,5,1
+Case126,turning-&-milling---machine-4,0,0,0,0,1
+Case126,turning-&-milling---machine-4 turning-&-milling---machine-4,1,1,0,1,0
+Case126,turning-&-milling---machine-4 turning-&-milling---machine-4 turning-&-milling---machine-4,2,1,1,0,1
+Case105,turning-&-milling---machine-4,0,0,0,0,0
+Case105,turning-&-milling---machine-4 turning-&-milling---machine-4,1,0,0,0,1
+Case85,turning-&-milling---machine-6,0,0,0,0,0
+Case85,turning-&-milling---machine-6 turning-&-milling---machine-6,1,0,0,0,0
+Case85,turning-&-milling---machine-6 turning-&-milling---machine-6 turning-&-milling---machine-6,2,0,0,0,1
+Case135,turning-&-milling---machine-5,0,0,0,0,0
+Case135,turning-&-milling---machine-5 turning-&-milling---machine-5,1,0,0,0,0
+Case135,turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling---machine-5,2,0,0,0,0
+Case135,turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling---machine-5,3,0,0,0,0
+Case135,turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling---machine-5,4,0,0,0,0
+Case135,turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling---machine-5,5,0,0,0,0
+Case135,turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling---machine-5,6,0,0,0,1
+Case135,turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling---machine-5,7,1,1,1,0
+Case135,turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling---machine-5,8,1,1,0,0
+Case135,turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling---machine-5,9,1,0,0,0
+Case135,turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling---machine-5,10,1,0,0,0
+Case135,turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling---machine-5,11,1,0,0,0
+Case135,turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling---machine-5,12,1,0,0,0
+Case135,turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling---machine-5 turning-&-milling---machine-5,13,1,0,0,1
+Case65,turning-&-milling---machine-9,0,0,0,0,0
+Case65,turning-&-milling---machine-9 turning-&-milling-q.c.,1,0,0,0,7
+Case65,turning-&-milling---machine-9 turning-&-milling-q.c. turning-&-milling---machine-9,2,7,7,7,0
+Case65,turning-&-milling---machine-9 turning-&-milling-q.c. turning-&-milling---machine-9 turning-&-milling---machine-9,3,7,7,0,0
+Case65,turning-&-milling---machine-9 turning-&-milling-q.c. turning-&-milling---machine-9 turning-&-milling---machine-9 turning-&-milling---machine-9,4,7,0,0,0
+Case65,turning-&-milling---machine-9 turning-&-milling-q.c. turning-&-milling---machine-9 turning-&-milling---machine-9 turning-&-milling---machine-9 turning-&-milling---machine-9,5,7,0,0,1
+Case99,turning-&-milling-q.c.,0,0,0,0,0
+Case99,turning-&-milling-q.c. turning-&-milling-q.c.,1,0,0,0,2
+Case99,turning-&-milling-q.c. turning-&-milling-q.c. turning-&-milling-q.c.,2,2,2,2,0
+Case99,turning-&-milling-q.c. turning-&-milling-q.c. turning-&-milling-q.c. lapping---machine-1,3,2,2,0,0
+Case99,turning-&-milling-q.c. turning-&-milling-q.c. turning-&-milling-q.c. lapping---machine-1 laser-marking---machine-7,4,2,0,0,0
+Case99,turning-&-milling-q.c. turning-&-milling-q.c. turning-&-milling-q.c. lapping---machine-1 laser-marking---machine-7 lapping---machine-1,5,2,0,0,2
+Case99,turning-&-milling-q.c. turning-&-milling-q.c. turning-&-milling-q.c. lapping---machine-1 laser-marking---machine-7 lapping---machine-1 final-inspection-q.c.,6,4,2,2,0
+Case99,turning-&-milling-q.c. turning-&-milling-q.c. turning-&-milling-q.c. lapping---machine-1 laser-marking---machine-7 lapping---machine-1 final-inspection-q.c. final-inspection-q.c.,7,4,2,0,0
+Case99,turning-&-milling-q.c. turning-&-milling-q.c. turning-&-milling-q.c. lapping---machine-1 laser-marking---machine-7 lapping---machine-1 final-inspection-q.c. final-inspection-q.c. packing,8,4,1,0,1
+Case142,turning-&-milling-q.c.,0,0,0,0,3
+Case142,turning-&-milling-q.c. turning-&-milling-q.c.,1,3,0,3,1
+Case81,turning-&-milling-q.c.,0,0,0,0,2
+Case81,turning-&-milling-q.c. turning-&-milling-q.c.,1,2,0,2,0
+Case81,turning-&-milling-q.c. turning-&-milling-q.c. turning-&-milling-q.c.,2,2,3,0,1
+Case118,turning-&-milling---machine-6,0,0,0,0,3
+Case118,turning-&-milling---machine-6 turning-&-milling---machine-6,1,3,0,3,0
+Case118,turning-&-milling---machine-6 turning-&-milling---machine-6 turning-&-milling---machine-6,2,3,4,0,1
+Case86,turning-&-milling---machine-6,0,0,0,0,0
+Case86,turning-&-milling---machine-6 turning-&-milling---machine-6,1,0,0,0,0
+Case86,turning-&-milling---machine-6 turning-&-milling---machine-6 turning-&-milling---machine-6,2,0,0,0,0
+Case86,turning-&-milling---machine-6 turning-&-milling---machine-6 turning-&-milling---machine-6 turning-&-milling---machine-6,3,0,0,0,0
+Case86,turning-&-milling---machine-6 turning-&-milling---machine-6 turning-&-milling---machine-6 turning-&-milling---machine-6 turning-&-milling---machine-6,4,0,0,0,0
+Case86,turning-&-milling---machine-6 turning-&-milling---machine-6 turning-&-milling---machine-6 turning-&-milling---machine-6 turning-&-milling---machine-6 turning-&-milling---machine-6,5,0,0,0,0
+Case86,turning-&-milling---machine-6 turning-&-milling---machine-6 turning-&-milling---machine-6 turning-&-milling---machine-6 turning-&-milling---machine-6 turning-&-milling---machine-6 turning-&-milling-q.c.,6,0,0,0,0
+Case86,turning-&-milling---machine-6 turning-&-milling---machine-6 turning-&-milling---machine-6 turning-&-milling---machine-6 turning-&-milling---machine-6 turning-&-milling---machine-6 turning-&-milling-q.c. turning-&-milling-q.c.,7,0,1,0,1
+Case141,turning-&-milling---machine-4,0,0,0,0,1
+Case264,turning-&-milling---machine-6,0,0,0,0,0
+Case264,turning-&-milling---machine-6 turning-&-milling---machine-6,1,0,0,0,0
+Case264,turning-&-milling---machine-6 turning-&-milling---machine-6 turning-&-milling---machine-6,2,0,0,0,0
+Case264,turning-&-milling---machine-6 turning-&-milling---machine-6 turning-&-milling---machine-6 turning-&-milling---machine-6,3,0,0,0,0
+Case264,turning-&-milling---machine-6 turning-&-milling---machine-6 turning-&-milling---machine-6 turning-&-milling---machine-6 turning-&-milling-q.c.,4,0,0,0,0
+Case264,turning-&-milling---machine-6 turning-&-milling---machine-6 turning-&-milling---machine-6 turning-&-milling---machine-6 turning-&-milling-q.c. turning-&-milling---machine-6,5,0,0,0,0
+Case264,turning-&-milling---machine-6 turning-&-milling---machine-6 turning-&-milling---machine-6 turning-&-milling---machine-6 turning-&-milling-q.c. turning-&-milling---machine-6 turning-&-milling---machine-6,6,0,0,0,0
+Case264,turning-&-milling---machine-6 turning-&-milling---machine-6 turning-&-milling---machine-6 turning-&-milling---machine-6 turning-&-milling-q.c. turning-&-milling---machine-6 turning-&-milling---machine-6 turning-&-milling---machine-6,7,0,0,0,0
+Case264,turning-&-milling---machine-6 turning-&-milling---machine-6 turning-&-milling---machine-6 turning-&-milling---machine-6 turning-&-milling-q.c. turning-&-milling---machine-6 turning-&-milling---machine-6 turning-&-milling---machine-6 turning-&-milling---machine-6,8,0,0,0,0
+Case264,turning-&-milling---machine-6 turning-&-milling---machine-6 turning-&-milling---machine-6 turning-&-milling---machine-6 turning-&-milling-q.c. turning-&-milling---machine-6 turning-&-milling---machine-6 turning-&-milling---machine-6 turning-&-milling---machine-6 turning-&-milling-q.c.,9,0,0,0,0
+Case264,turning-&-milling---machine-6 turning-&-milling---machine-6 turning-&-milling---machine-6 turning-&-milling---machine-6 turning-&-milling-q.c. turning-&-milling---machine-6 turning-&-milling---machine-6 turning-&-milling---machine-6 turning-&-milling---machine-6 turning-&-milling-q.c. turning-&-milling-q.c.,10,0,0,0,0
+Case264,turning-&-milling---machine-6 turning-&-milling---machine-6 turning-&-milling---machine-6 turning-&-milling---machine-6 turning-&-milling-q.c. turning-&-milling---machine-6 turning-&-milling---machine-6 turning-&-milling---machine-6 turning-&-milling---machine-6 turning-&-milling-q.c. turning-&-milling-q.c. laser-marking---machine-7,11,0,0,0,0
+Case264,turning-&-milling---machine-6 turning-&-milling---machine-6 turning-&-milling---machine-6 turning-&-milling---machine-6 turning-&-milling-q.c. turning-&-milling---machine-6 turning-&-milling---machine-6 turning-&-milling---machine-6 turning-&-milling---machine-6 turning-&-milling-q.c. turning-&-milling-q.c. laser-marking---machine-7 turning-&-milling---machine-6,12,0,0,0,1
+Case138,turning-&-milling---machine-4,0,0,0,0,0
+Case138,turning-&-milling---machine-4 turning-&-milling---machine-4,1,0,0,0,0
+Case138,turning-&-milling---machine-4 turning-&-milling---machine-4 turning-&-milling---machine-4,2,0,0,0,0
+Case138,turning-&-milling---machine-4 turning-&-milling---machine-4 turning-&-milling---machine-4 turning-&-milling---machine-4,3,0,0,0,0
+Case138,turning-&-milling---machine-4 turning-&-milling---machine-4 turning-&-milling---machine-4 turning-&-milling---machine-4 turning-&-milling---machine-5,4,0,0,0,1
+Case137,turning-&-milling---machine-4,0,0,0,0,0
+Case137,turning-&-milling---machine-4 turning-&-milling---machine-4,1,0,0,0,0
+Case137,turning-&-milling---machine-4 turning-&-milling---machine-4 turning-&-milling---machine-4,2,0,0,0,1
+Case137,turning-&-milling---machine-4 turning-&-milling---machine-4 turning-&-milling---machine-4 turning-&-milling-q.c.,3,1,2,1,1
+Case133,turning-&-milling---machine-4,0,0,0,0,1
+Case133,turning-&-milling---machine-4 turning-&-milling---machine-4,1,1,0,1,0
+Case133,turning-&-milling---machine-4 turning-&-milling---machine-4 turning-&-milling---machine-4,2,1,1,0,0
+Case133,turning-&-milling---machine-4 turning-&-milling---machine-4 turning-&-milling---machine-4 turning-&-milling---machine-4,3,1,0,0,1
+Case98,turning-&-milling-q.c.,0,0,0,0,0
+Case98,turning-&-milling-q.c. laser-marking---machine-7,1,0,0,0,0
+Case98,turning-&-milling-q.c. laser-marking---machine-7 laser-marking---machine-7,2,0,0,0,0
+Case98,turning-&-milling-q.c. laser-marking---machine-7 laser-marking---machine-7 laser-marking---machine-7,3,0,0,0,1
+Case125,turning-&-milling---machine-6,0,0,0,0,0
+Case125,turning-&-milling---machine-6 turning-&-milling---machine-6,1,0,0,0,0
+Case125,turning-&-milling---machine-6 turning-&-milling---machine-6 turning-&-milling---machine-6,2,0,0,0,0
+Case125,turning-&-milling---machine-6 turning-&-milling---machine-6 turning-&-milling---machine-6 turning-&-milling-q.c.,3,0,0,0,0
+Case125,turning-&-milling---machine-6 turning-&-milling---machine-6 turning-&-milling---machine-6 turning-&-milling-q.c. turning-&-milling---machine-6,4,0,0,0,1
+Case134,turning-&-milling---machine-4,0,0,0,0,0
+Case134,turning-&-milling---machine-4 turning-&-milling---machine-4,1,0,0,0,0
+Case134,turning-&-milling---machine-4 turning-&-milling---machine-4 turning-&-milling---machine-4,2,0,0,0,0
+Case134,turning-&-milling---machine-4 turning-&-milling---machine-4 turning-&-milling---machine-4 turning-&-milling---machine-4,3,0,1,0,1
+Case136,turning-&-milling---machine-6,0,0,0,0,0
+Case136,turning-&-milling---machine-6 turning-&-milling---machine-6,1,0,0,0,0
+Case136,turning-&-milling---machine-6 turning-&-milling---machine-6 turning-&-milling-q.c.,2,0,0,0,1
+Case144,packing,0,0,0,0,0
+Case144,packing final-inspection-q.c.,1,0,0,0,1
+Case5,turning-&-milling---machine-8,0,0,0,0,0
+Case5,turning-&-milling---machine-8 turning-&-milling---machine-8,1,0,0,0,1
+Case107,turning-&-milling---machine-10,0,0,0,0,1

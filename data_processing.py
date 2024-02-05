@@ -12,7 +12,9 @@ parser = argparse.ArgumentParser(
 
 parser.add_argument("--dataset", 
     type=str, 
-    default="helpdesk", 
+    # default="helpdesk", 
+    # default="production",
+    default="traffic_fines",
     help="dataset name")
 
 parser.add_argument("--dir_path", 
@@ -22,12 +24,16 @@ parser.add_argument("--dir_path",
 
 parser.add_argument("--raw_log_file", 
     type=str, 
-    default="./datasets/helpdesk/helpdesk.csv", 
+    # default="./datasets/helpdesk/helpdesk.csv", 
+    # default="./datasets/production/production.csv", 
+    default="./datasets/traffic_fines/traffic_fines.csv",
     help="path to raw csv log file")
 
 parser.add_argument("--task", 
     type=constants.Task, 
-    default=constants.Task.NEXT_TIME, 
+    default=constants.Task.NEXT_ACTIVITY, 
+    # default=constants.Task.NEXT_TIME, 
+    # default=constants.Task.REMAINING_TIME, 
     help="task name")
 
 parser.add_argument("--sort_temporally", 

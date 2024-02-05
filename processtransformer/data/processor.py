@@ -27,7 +27,8 @@ class LogsDataProcessor:
         self._pool = pool
 
     def _load_df(self, sort_temporally = False):
-        df = pd.read_csv(self._filepath)
+        # df = pd.read_csv(self._filepath)
+        df = pd.read_csv(self._filepath, sep=';')
         df = df[self._org_columns]
         df.columns = ["case:concept:name", 
             "concept:name", "time:timestamp"]
